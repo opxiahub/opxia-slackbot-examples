@@ -1,12 +1,12 @@
-# OpxiaBot Prompt Examples
+# Opxia Slackbot Prompt Examples
 
-![OpxiaBot - AI-Powered DevOps & Cloud Assistant](./resources/opxia-slackbot.png)
+![Opxia Slackbot - AI-Powered DevOps & Cloud Assistant](./resources/opxia-slackbot.png)
 
-Welcome to the comprehensive collection of prompt examples for **OpxiaBot** - your AI-powered DevOps and Cloud management assistant for Slack. This repository contains organized examples and templates to help you effectively interact with your cloud infrastructure across multiple platforms.
+Welcome to the comprehensive collection of prompt examples for **Opxia Slackbot** - your AI-powered DevOps and Cloud management assistant for Slack. This repository contains organized examples and templates to help you effectively interact with your cloud infrastructure across multiple platforms.
 
-## About OpxiaBot
+## About Opxia Slackbot
 
-OpxiaBot is an intelligent Slack bot designed to streamline your DevOps and cloud management workflows. With natural language processing capabilities, OpxiaBot helps you monitor, optimize, and manage your cloud resources across AWS, Azure, GCP, and Kubernetes platforms.
+Opxia Slackbot is an intelligent Slack bot designed to streamline your DevOps and cloud management workflows. With natural language processing capabilities, Opxia Slackbot helps you monitor, optimize, and manage your cloud resources across AWS, Azure, GCP, and Kubernetes platforms.
 
 ### Key Features
 - **Multi-Cloud Support**: AWS, Azure, GCP, and Kubernetes (EKS, AKS, GKE)
@@ -17,8 +17,8 @@ OpxiaBot is an intelligent Slack bot designed to streamline your DevOps and clou
 - **Operational Excellence**: Streamline day-to-day operations and incident response
 
 ### Getting Started
-- **Setup & Installation**: [Install OpxiaBot](https://slackbot.opxia.ai/) in your Slack workspace
-- **Documentation**: [Learn how to use OpxiaBot](https://slackbot.opxia.ai/doc.html) - Complete setup and usage guide
+- **Setup & Installation**: [Install Opxia Slackbot](https://slackbot.opxia.ai/) in your Slack workspace
+- **Documentation**: [Learn how to use Opxia Slackbot](https://slackbot.opxia.ai/doc.html) - Complete setup and usage guide
 
 ## Documentation Structure
 
@@ -122,7 +122,7 @@ We welcome contributions to expand and improve these prompt examples. Please fee
 
 📞 Support
 
-For technical support, feature requests, or questions about OpxiaBot:
+For technical support, feature requests, or questions about Opxia Slackbot:
 - [Get AI-powered help](https://slackbot.opxia.ai/help) - Chat with our specialized helpbot for instant support
 - [Visit our documentation](https://slackbot.opxia.ai/doc.html)
 - [Setup and Installation Guide](https://slackbot.opxia.ai/)
@@ -131,4 +131,4 @@ For technical support, feature requests, or questions about OpxiaBot:
 
 ---
 
-*OpxiaBot - Transforming DevOps and Cloud Management through Intelligent Automation*
+*Opxia Slackbot - Transforming DevOps and Cloud Management through Intelligent Automation*

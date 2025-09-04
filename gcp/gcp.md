@@ -1,6 +1,6 @@
-# GCP OpxiaBot Prompt Examples
+# GCP Opxia Slackbot Prompt Examples
 
-This document contains example prompts for interacting with Google Cloud Platform (GCP) resources using OpxiaBot. All prompts start with `@opxiabot` followed by your request.
+This document contains example prompts for interacting with Google Cloud Platform (GCP) resources using Opxia Slackbot. All prompts start with `@opxiabot` followed by your request.
 
 ## Security & Compliance
 

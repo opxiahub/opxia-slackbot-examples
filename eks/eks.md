@@ -1,6 +1,6 @@
-# EKS OpxiaBot Prompt Examples
+# EKS Opxia Slackbot Prompt Examples
 
-This document contains example prompts for interacting with Kubernetes resources inside EKS clusters using OpxiaBot. All prompts start with `@opxiabot` followed by your request. These operations are performed using kubectl and focus on resources within the cluster.
+This document contains example prompts for interacting with Kubernetes resources inside EKS clusters using Opxia Slackbot. All prompts start with `@opxiabot` followed by your request. These operations are performed using kubectl and focus on resources within the cluster.
 
 ## Pod Management
 

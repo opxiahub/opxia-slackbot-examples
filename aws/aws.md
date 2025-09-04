@@ -1,6 +1,6 @@
-# AWS OpxiaBot Prompt Examples
+# AWS Opxia Slackbot Prompt Examples
 
-This document contains example prompts for interacting with AWS resources using OpxiaBot. All prompts start with `@opxiabot` followed by your request.
+This document contains example prompts for interacting with AWS resources using Opxia Slackbot. All prompts start with `@opxiabot` followed by your request.
 
 ## Security & Compliance
 
