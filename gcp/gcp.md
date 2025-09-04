@@ -213,3 +213,44 @@ This document contains example prompts for interacting with Google Cloud Platfor
 @opxiabot List all Global Load Balancers in GCP with geographic routing issues
 @opxiabot Show me all Cloud Interconnect connections in GCP with utilization above 80%
 ```
+
+## GKE Cluster Management
+
+### GKE Cluster Operations
+```
+@opxiabot Show me all GKE clusters in GCP with unhealthy nodes
+@opxiabot List all GKE clusters in GCP with deprecated Kubernetes versions
+@opxiabot Find all GKE clusters in GCP with master upgrade available
+@opxiabot Show me all GKE clusters in GCP with control plane issues
+@opxiabot Show me all GKE clusters in GCP without private nodes enabled
+@opxiabot Find all GKE clusters in GCP without authorized networks configured
+@opxiabot List all standard GKE clusters in GCP eligible for Autopilot migration
+```
+
+### GKE Node Pool Management
+```
+@opxiabot List all GKE node pools in GCP with nodes in NotReady state
+@opxiabot Show me all GKE node pools in GCP with high resource utilization
+@opxiabot Find all GKE node pools in GCP with autoscaling problems
+@opxiabot List all GKE node pools in GCP with preemptible instance failures
+@opxiabot Show me all GKE node pools in GCP using only standard instances
+@opxiabot Find all workloads in GKE suitable for preemptible instances
+```
+
+### GKE Cluster Autoscaling
+```
+@opxiabot Show me all GKE clusters in GCP with cluster autoscaler errors
+@opxiabot Find all GKE clusters in GCP with horizontal pod autoscaler issues
+@opxiabot List all GKE clusters in GCP with vertical pod autoscaler recommendations
+@opxiabot Show me all GKE clusters in GCP with node pool scaling events
+```
+
+### GKE Google Cloud Integration
+```
+@opxiabot Show me all Google Cloud Load Balancers for GKE with backend failures
+@opxiabot Find all ingress resources in GKE with SSL certificate issues
+@opxiabot List all Compute Engine persistent disks in GKE with attachment errors
+@opxiabot Show me all Filestore instances in GKE with connectivity issues
+@opxiabot Show me all VPC-native GKE clusters with IP address exhaustion
+@opxiabot List all GKE clusters in GCP without backup plans configured
+```

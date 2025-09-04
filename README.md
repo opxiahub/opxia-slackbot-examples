@@ -1,5 +1,7 @@
 # OpxiaBot Prompt Examples
 
+![OpxiaBot - AI-Powered DevOps & Cloud Assistant](./resources/opxia-slackbot.png)
+
 Welcome to the comprehensive collection of prompt examples for **OpxiaBot** - your AI-powered DevOps and Cloud management assistant for Slack. This repository contains organized examples and templates to help you effectively interact with your cloud infrastructure across multiple platforms.
 
 ## About OpxiaBot

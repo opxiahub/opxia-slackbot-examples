@@ -128,6 +128,47 @@ This document contains example prompts for interacting with AWS resources using 
 @opxiabot List all resources in AWS missing disaster recovery configuration
 ```
 
+## EKS Cluster Management
+
+### EKS Cluster Operations
+```
+@opxiabot Show me all EKS clusters in AWS with unhealthy nodes
+@opxiabot List all EKS clusters in AWS with deprecated Kubernetes versions
+@opxiabot Find all EKS clusters in AWS with control plane upgrade available
+@opxiabot Show me all EKS clusters in AWS with API server issues
+@opxiabot List all EKS clusters in AWS without private endpoint enabled
+@opxiabot Show me all EKS clusters in AWS without logging enabled
+@opxiabot Find all EKS clusters in AWS without encryption at rest
+```
+
+### EKS Node Group Management
+```
+@opxiabot List all EKS node groups in AWS with nodes in NotReady state
+@opxiabot Show me all EKS node groups in AWS with high CPU utilization
+@opxiabot Find all EKS node groups in AWS with autoscaling issues
+@opxiabot List all EKS node groups in AWS approaching maximum capacity
+@opxiabot Show me all EKS node groups in AWS using on-demand instances only
+@opxiabot Find all EKS node groups in AWS eligible for Spot instances
+```
+
+### EKS Cluster Autoscaling
+```
+@opxiabot Show me all EKS clusters in AWS with cluster autoscaler failures
+@opxiabot Find all EKS clusters in AWS with horizontal pod autoscaler issues
+@opxiabot List all EKS clusters in AWS with resource constraints
+@opxiabot Show me all EKS clusters in AWS with pod scheduling failures
+```
+
+### EKS AWS Integration
+```
+@opxiabot Show me all Application Load Balancers in EKS with SSL certificate issues
+@opxiabot Find all Network Load Balancers in EKS with target group health problems
+@opxiabot List all EKS clusters in AWS with VPC CNI IP exhaustion
+@opxiabot Show me all subnets in EKS with insufficient IP addresses
+@opxiabot Find all security groups in EKS with conflicting rules
+@opxiabot List all EBS volumes in EKS with attachment failures
+```
+
 ## Resource Management
 
 ### Inventory Management

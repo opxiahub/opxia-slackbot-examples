@@ -185,5 +185,45 @@ This document contains example prompts for interacting with Microsoft Azure reso
 @opxiabot Show me all Azure DevOps pipelines with recent failures
 @opxiabot Find all App Services in Azure with deployment slot issues
 @opxiabot List all Container Registries in Azure with vulnerability scans
-@opxiabot Show me all AKS clusters in Azure with upgrade recommendations
+```
+
+## AKS Cluster Management
+
+### AKS Cluster Operations
+```
+@opxiabot Show me all AKS clusters in Azure with unhealthy nodes
+@opxiabot List all AKS clusters in Azure with deprecated Kubernetes versions
+@opxiabot Find all AKS clusters in Azure with node upgrade available
+@opxiabot Show me all AKS clusters in Azure with system pod failures
+@opxiabot List all AKS clusters in Azure without Azure Active Directory integration
+@opxiabot Show me all AKS clusters in Azure without network policies enabled
+@opxiabot Find all AKS clusters in Azure with public API server endpoint
+```
+
+### AKS Node Pool Management
+```
+@opxiabot List all AKS node pools in Azure with high CPU utilization
+@opxiabot Show me all AKS node pools in Azure with nodes in NotReady state
+@opxiabot Find all AKS node pools in Azure with autoscaling disabled
+@opxiabot List all AKS node pools in Azure approaching maximum node count
+@opxiabot Show me all AKS node pools in Azure with low utilization
+@opxiabot Find all AKS node pools in Azure eligible for spot instances
+```
+
+### AKS Cluster Autoscaling
+```
+@opxiabot Show me all AKS clusters in Azure with cluster autoscaler issues
+@opxiabot Find all AKS clusters in Azure with horizontal pod autoscaler failures
+@opxiabot List all AKS clusters in Azure with resource quota exceeded
+@opxiabot Show me all AKS clusters in Azure with pod eviction events
+```
+
+### AKS Azure Integration
+```
+@opxiabot Show me all Azure Load Balancers for AKS with unhealthy backend pools
+@opxiabot Find all Application Gateway integrations in AKS with SSL issues
+@opxiabot List all AKS services with Azure Load Balancer annotation issues
+@opxiabot Show me all Azure Disk attachments in AKS with mount failures
+@opxiabot Find all Azure File shares in AKS with permission issues
+@opxiabot List all AKS clusters in Azure without backup solutions
 ```
