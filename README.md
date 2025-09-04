@@ -116,6 +116,7 @@ Execute the prompts in your Slack workspace by mentioning `@opxiabot` followed b
 We welcome contributions to expand and improve these prompt examples. Please feel free to:
 - Submit additional prompt examples
 - Improve existing documentation
+- [Submit feedback, feature requests, or bug reports](https://slackbot.opxia.ai/feedback)
 - Report issues or suggest enhancements
 - Share your use cases and best practices
 
