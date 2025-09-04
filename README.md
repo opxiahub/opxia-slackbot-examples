@@ -122,6 +122,7 @@ We welcome contributions to expand and improve these prompt examples. Please fee
 📞 Support
 
 For technical support, feature requests, or questions about OpxiaBot:
+- [Get AI-powered help](https://slackbot.opxia.ai/help) - Chat with our specialized helpbot for instant support
 - [Visit our documentation](https://slackbot.opxia.ai/doc.html)
 - [Setup and Installation Guide](https://slackbot.opxia.ai/)
 - Contact our support team
