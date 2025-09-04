@@ -2,7 +2,7 @@
 
 Welcome to the comprehensive collection of prompt examples for **OpxiaBot** - your AI-powered DevOps and Cloud management assistant for Slack. This repository contains organized examples and templates to help you effectively interact with your cloud infrastructure across multiple platforms.
 
-## 🚀 About OpxiaBot
+## About OpxiaBot
 
 OpxiaBot is an intelligent Slack bot designed to streamline your DevOps and cloud management workflows. With natural language processing capabilities, OpxiaBot helps you monitor, optimize, and manage your cloud resources across AWS, Azure, GCP, and Kubernetes platforms.
 
@@ -14,11 +14,15 @@ OpxiaBot is an intelligent Slack bot designed to streamline your DevOps and clou
 - **Security Compliance**: Monitor security posture and compliance violations
 - **Operational Excellence**: Streamline day-to-day operations and incident response
 
-## 📚 Documentation Structure
+### Getting Started
+- **Setup & Installation**: [Install OpxiaBot](https://slackbot.opxia.ai/) in your Slack workspace
+- **Documentation**: [Learn how to use OpxiaBot](https://slackbot.opxia.ai/doc.html) - Complete setup and usage guide
+
+## Documentation Structure
 
 This repository is organized by cloud platform and service type. Each section contains carefully crafted prompt examples categorized by use case:
 
-### ☁️ Cloud Platforms
+### Cloud Platforms
 
 #### 🟠 [Amazon Web Services (AWS)](./aws/aws.md)
 Comprehensive prompts for AWS services including EC2, S3, RDS, Lambda, and more.
@@ -41,7 +45,7 @@ Detailed GCP prompts for Compute Engine, Cloud Storage, BigQuery, and Cloud Func
 - **Operations & Monitoring**: Stackdriver, Load balancers, Performance monitoring
 - **DevOps Integration**: Cloud Build, Deployment Manager, Traffic management
 
-### 🎯 Kubernetes Platforms
+### Kubernetes Platforms
 
 #### 🟠 [Amazon Elastic Kubernetes Service (EKS)](./eks/eks.md)
 EKS-specific prompts for cluster management, workload operations, and AWS integrations.
@@ -64,17 +68,17 @@ GKE prompts including Autopilot, Standard clusters, and Google Cloud integration
 - **Cost Optimization**: Preemptible instances, Resource optimization, Storage management
 - **Advanced Features**: Anthos, Istio Service Mesh, Config Connector
 
-## 🎯 How to Use This Repository
+## How to Use This Repository
 
 ### 1. **Choose Your Platform**
 Navigate to the appropriate folder based on your cloud platform or Kubernetes service.
 
 ### 2. **Browse by Category**
 Each document is organized by functional categories:
-- 🔐 **Security & Compliance**
-- 💰 **Cost Optimization** 
-- 📊 **Operations & Monitoring**
-- 🔄 **Resource Management**
+- **Security & Compliance**
+- **Cost Optimization** 
+- **Operations & Monitoring**
+- **Resource Management**
 
 ### 3. **Copy and Customize**
 Copy the relevant prompts and customize them for your specific environment and requirements.
@@ -82,7 +86,7 @@ Copy the relevant prompts and customize them for your specific environment and r
 ### 4. **Use in Slack**
 Execute the prompts in your Slack workspace by mentioning `@opxiabot` followed by the command.
 
-## 💡 Example Usage
+## Example Usage
 
 ```
 @opxiabot Show me all my VMs on Azure that are stopped but still incurring charges
@@ -91,15 +95,15 @@ Execute the prompts in your Slack workspace by mentioning `@opxiabot` followed b
 @opxiabot Show me all EKS clusters in AWS with unhealthy nodes
 ```
 
-## 🔧 Best Practices
+## Best Practices
 
-### **Command Structure**
+### Command Structure
 - Always start with `@opxiabot`
 - Use clear, specific language
 - Include relevant filters (time periods, resource types, etc.)
 - Be explicit about the cloud platform when managing multi-cloud environments
 
-### **Optimization Tips**
+### Optimization Tips
 - Use category-specific commands for faster results
 - Combine multiple related queries for comprehensive analysis
 - Leverage tagging in prompts for better resource organization
@@ -113,10 +117,11 @@ We welcome contributions to expand and improve these prompt examples. Please fee
 - Report issues or suggest enhancements
 - Share your use cases and best practices
 
-## 📞 Support
+📞 Support
 
 For technical support, feature requests, or questions about OpxiaBot:
-- Visit our documentation
+- [Visit our documentation](https://slackbot.opxia.ai/doc.html)
+- [Setup and Installation Guide](https://slackbot.opxia.ai/)
 - Contact our support team
 - Join our community discussions
 

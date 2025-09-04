@@ -2,7 +2,7 @@
 
 This document contains example prompts for interacting with Google Cloud Platform (GCP) resources using OpxiaBot. All prompts start with `@opxiabot` followed by your request.
 
-## 🔵 Security & Compliance
+## Security & Compliance
 
 ### Cloud Storage Security
 ```
@@ -44,7 +44,7 @@ This document contains example prompts for interacting with Google Cloud Platfor
 @opxiabot List all VPC networks in GCP with legacy networking enabled
 ```
 
-## 💰 Cost Optimization
+## Cost Optimization
 
 ### Compute Optimization
 ```
@@ -78,7 +78,7 @@ This document contains example prompts for interacting with Google Cloud Platfor
 @opxiabot Find all external IP addresses in GCP that are unused
 ```
 
-## 📊 Operations & Monitoring
+## Operations & Monitoring
 
 ### Load Balancer Operations
 ```
@@ -128,7 +128,7 @@ This document contains example prompts for interacting with Google Cloud Platfor
 @opxiabot Show me all App Engine services in GCP with instance scaling issues
 ```
 
-## 🔄 Resource Management
+## Resource Management
 
 ### Project Management
 ```
@@ -162,7 +162,7 @@ This document contains example prompts for interacting with Google Cloud Platfor
 @opxiabot List all resources in GCP missing disaster recovery setup
 ```
 
-## 🛡️ Security Center & Compliance
+## Security Center & Compliance
 
 ### Security Command Center
 ```
@@ -188,7 +188,7 @@ This document contains example prompts for interacting with Google Cloud Platfor
 @opxiabot Show me all audit logs in GCP with authentication failures
 ```
 
-## 🏗️ Infrastructure & DevOps
+## Infrastructure & DevOps
 
 ### Cloud Build Operations
 ```

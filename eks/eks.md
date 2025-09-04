@@ -2,7 +2,7 @@
 
 This document contains example prompts for interacting with Amazon Elastic Kubernetes Service (EKS) resources using OpxiaBot. All prompts start with `@opxiabot` followed by your request.
 
-## 🟠 EKS Cluster Management
+## EKS Cluster Management
 
 ### Cluster Health & Status
 ```
@@ -36,7 +36,7 @@ This document contains example prompts for interacting with Amazon Elastic Kuber
 @opxiabot List all EKS clusters in AWS with public API server access from 0.0.0.0/0
 ```
 
-## 🔐 Security & Compliance
+## Security & Compliance
 
 ### Pod Security Standards
 ```
@@ -70,7 +70,7 @@ This document contains example prompts for interacting with Amazon Elastic Kuber
 @opxiabot Show me all external-secrets operators in EKS with sync failures
 ```
 
-## 💰 Cost Optimization
+## Cost Optimization
 
 ### EC2 Instance Optimization
 ```
@@ -104,7 +104,7 @@ This document contains example prompts for interacting with Amazon Elastic Kuber
 @opxiabot Find all workloads in EKS suitable for Fargate migration
 ```
 
-## 📊 Monitoring & Operations
+## Monitoring & Operations
 
 ### Container & Pod Monitoring
 ```
@@ -138,7 +138,7 @@ This document contains example prompts for interacting with Amazon Elastic Kuber
 @opxiabot List all add-ons in EKS with update failures
 ```
 
-## 🔄 Workload Management
+## Workload Management
 
 ### Deployment Management
 ```
@@ -172,7 +172,7 @@ This document contains example prompts for interacting with Amazon Elastic Kuber
 @opxiabot List all DaemonSets in EKS with node selector conflicts
 ```
 
-## 🏗️ AWS Integration & Networking
+## AWS Integration & Networking
 
 ### AWS Load Balancer Controller
 ```
@@ -206,7 +206,7 @@ This document contains example prompts for interacting with Amazon Elastic Kuber
 @opxiabot List all EFS CSI driver issues in EKS clusters
 ```
 
-## 🚀 CI/CD & GitOps
+## CI/CD & GitOps
 
 ### ArgoCD Operations
 ```

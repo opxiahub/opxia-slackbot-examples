@@ -2,7 +2,7 @@
 
 This document contains example prompts for interacting with Google Kubernetes Engine (GKE) resources using OpxiaBot. All prompts start with `@opxiabot` followed by your request.
 
-## 🔵 GKE Cluster Management
+## GKE Cluster Management
 
 ### Cluster Health & Status
 ```
@@ -36,7 +36,7 @@ This document contains example prompts for interacting with Google Kubernetes En
 @opxiabot List all GKE clusters in GCP with mixed node pool configurations
 ```
 
-## 🔐 Security & Compliance
+## Security & Compliance
 
 ### Workload Security
 ```
@@ -70,7 +70,7 @@ This document contains example prompts for interacting with Google Kubernetes En
 @opxiabot Show me all Istio service mesh policies in GKE with misconfigurations
 ```
 
-## 💰 Cost Optimization
+## Cost Optimization
 
 ### Compute Optimization
 ```
@@ -104,7 +104,7 @@ This document contains example prompts for interacting with Google Kubernetes En
 @opxiabot Find all workloads in GKE suitable for Spot VM migration
 ```
 
-## 📊 Monitoring & Operations
+## Monitoring & Operations
 
 ### GKE Monitoring Integration
 ```
@@ -138,7 +138,7 @@ This document contains example prompts for interacting with Google Kubernetes En
 @opxiabot List all GKE clusters in GCP with certificate expiration warnings
 ```
 
-## 🔄 Workload Management
+## Workload Management
 
 ### Application Deployment
 ```
@@ -172,7 +172,7 @@ This document contains example prompts for interacting with Google Kubernetes En
 @opxiabot List all DaemonSets in GKE with resource constraint violations
 ```
 
-## 🏗️ Google Cloud Integration
+## Google Cloud Integration
 
 ### Load Balancer Integration
 ```
@@ -206,7 +206,7 @@ This document contains example prompts for interacting with Google Kubernetes En
 @opxiabot List all container images in GKE with vulnerability scan failures
 ```
 
-## 🚀 Advanced GKE Features
+## Advanced GKE Features
 
 ### GKE Enterprise (Anthos)
 ```

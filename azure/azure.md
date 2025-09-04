@@ -2,7 +2,7 @@
 
 This document contains example prompts for interacting with Microsoft Azure resources using OpxiaBot. All prompts start with `@opxiabot` followed by your request.
 
-## 🔷 Security & Compliance
+## Security & Compliance
 
 ### Storage Security
 ```
@@ -44,7 +44,7 @@ This document contains example prompts for interacting with Microsoft Azure reso
 @opxiabot List all Application Gateways in Azure with SSL policy issues
 ```
 
-## 💰 Cost Optimization
+## Cost Optimization
 
 ### Compute Optimization
 ```
@@ -78,7 +78,7 @@ This document contains example prompts for interacting with Microsoft Azure reso
 @opxiabot Find all SQL Databases in Azure eligible for reserved capacity
 ```
 
-## 📊 Operations & Monitoring
+## Operations & Monitoring
 
 ### Application Gateway Operations
 ```
@@ -128,7 +128,7 @@ This document contains example prompts for interacting with Microsoft Azure reso
 @opxiabot Show me all Log Analytics workspaces in Azure with high ingestion rates
 ```
 
-## 🔄 Resource Management
+## Resource Management
 
 ### Resource Group Management
 ```
@@ -162,7 +162,7 @@ This document contains example prompts for interacting with Microsoft Azure reso
 @opxiabot List all Traffic Manager profiles in Azure with unhealthy endpoints
 ```
 
-## 🏗️ Infrastructure as Code
+## Infrastructure as Code
 
 ### ARM Template Operations
 ```

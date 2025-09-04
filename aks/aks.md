@@ -2,7 +2,7 @@
 
 This document contains example prompts for interacting with Azure Kubernetes Service (AKS) resources using OpxiaBot. All prompts start with `@opxiabot` followed by your request.
 
-## 🔷 AKS Cluster Management
+## AKS Cluster Management
 
 ### Cluster Health & Status
 ```
@@ -36,7 +36,7 @@ This document contains example prompts for interacting with Azure Kubernetes Ser
 @opxiabot List all AKS clusters in Azure without Azure Policy add-on enabled
 ```
 
-## 🔐 Security & Compliance
+## Security & Compliance
 
 ### Pod Security
 ```
@@ -70,7 +70,7 @@ This document contains example prompts for interacting with Azure Kubernetes Ser
 @opxiabot Show me all Azure Key Vault integrations in AKS with access issues
 ```
 
-## 💰 Cost Optimization
+## Cost Optimization
 
 ### Resource Utilization
 ```
@@ -104,7 +104,7 @@ This document contains example prompts for interacting with Azure Kubernetes Ser
 @opxiabot List all storage classes in AKS with expensive replication settings
 ```
 
-## 📊 Monitoring & Operations
+## Monitoring & Operations
 
 ### Pod & Container Monitoring
 ```
@@ -138,7 +138,7 @@ This document contains example prompts for interacting with Azure Kubernetes Ser
 @opxiabot List all custom metrics in AKS with missing data points
 ```
 
-## 🔄 Workload Management
+## Workload Management
 
 ### Deployment Operations
 ```
@@ -172,7 +172,7 @@ This document contains example prompts for interacting with Azure Kubernetes Ser
 @opxiabot List all destination rules in AKS with load balancing problems
 ```
 
-## 🏗️ Infrastructure & Networking
+## Infrastructure & Networking
 
 ### Load Balancer Operations
 ```

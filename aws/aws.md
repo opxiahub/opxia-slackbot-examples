@@ -2,7 +2,7 @@
 
 This document contains example prompts for interacting with AWS resources using OpxiaBot. All prompts start with `@opxiabot` followed by your request.
 
-## 🔐 Security & Compliance
+## Security & Compliance
 
 ### S3 Security
 ```
@@ -44,7 +44,7 @@ This document contains example prompts for interacting with AWS resources using 
 @opxiabot List all NACLs in AWS with allow-all rules
 ```
 
-## 💰 Cost Optimization
+## Cost Optimization
 
 ### Storage Optimization
 ```
@@ -78,7 +78,7 @@ This document contains example prompts for interacting with AWS resources using 
 @opxiabot Show me all unused Auto Scaling groups in AWS
 ```
 
-## 📊 Operations & Monitoring
+## Operations & Monitoring
 
 ### Load Balancer Operations
 ```
@@ -128,7 +128,7 @@ This document contains example prompts for interacting with AWS resources using 
 @opxiabot List all resources in AWS missing disaster recovery configuration
 ```
 
-## 🔄 Resource Management
+## Resource Management
 
 ### Inventory Management
 ```
